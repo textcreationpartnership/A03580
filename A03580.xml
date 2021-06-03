@@ -1,0 +1,1350 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The vse of the two mathematicall instruments the crosse staffe, (differing from that in common vse with the mariners:) and the Iacobs staffe: set foorth dialogue wise in two briefe and plaine treatises: the one most commodious for the mariner, and all such as are to deale in astronomicall matters: the other, profitable for the surueyor, to take the length, height, depth, or breadth, of any thing measurable. Set forth by Th. Hood. mathematicall lecturer in the citie of London. The staues are to be sold in Marke lane, at the house of Francis Cooke.</title>
+            <author>Hood, Thomas, fl. 1582-1598.</author>
+         </titleStmt>
+         <extent>Approx. 79KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A03580</idno><idno type="EEBO-CITATION">99850445</idno>
+  <idno type="VID">15647</idno>
+  <idno type="EEBO-PROQUEST">2240849566</idno>
+  <idno type="STC">STC 13701</idno>
+  <idno type="STC">ESTC S115226</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99850445e"/>
+            <note>(EEBO-TCP ; phase 2, no. A03580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15647)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1275:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The vse of the two mathematicall instruments the crosse staffe, (differing from that in common vse with the mariners:) and the Iacobs staffe: set foorth dialogue wise in two briefe and plaine treatises: the one most commodious for the mariner, and all such as are to deale in astronomicall matters: the other, profitable for the surueyor, to take the length, height, depth, or breadth, of any thing measurable. Set forth by Th. Hood. mathematicall lecturer in the citie of London. The staues are to be sold in Marke lane, at the house of Francis Cooke.</title>
+                  <author>Hood, Thomas, fl. 1582-1598.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Newly reviewed, and the second time imprinted.</edition>
+               </editionStmt>
+               <extent>[40] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Richard Field for Robert Dexter,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1596.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The vse of the Iacobs staffe" has separate dated title page; register is continuous.</note>
+                  <note>Signatures: A-E⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Astronomical instruments --  Early works to 1800.</term>
+               <term type="topical_term">Surveying --  Instruments --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:15647:1"/>
+            <pb facs="tcp:15647:1"/>
+            <p>
+               <hi>The vse of the two Mathema<g ref="char:EOLhyphen"/>ticall</hi> instruments, the crosse Staffe, (differing from that in common vse with <hi>the mariners:) And the Iacobs Staffe: Set</hi> foorth Dialogue wise in two briefe and plaine Trea<g ref="char:EOLhyphen"/>tises: the one most commodious for the Mariner, and all such as are to deale in Astronomicall matters: the other, pro<g ref="char:EOLhyphen"/>fitable for the Surueyor, to take the length, height, depth, or breadth, of any thing measurable.</p>
+            <p>
+               <hi>Set forth by Th. Hood. mathematicall</hi> Lecturer in the Citie of London.</p>
+            <p>Newly reviewed, and the second time imprinted.</p>
+            <p>
+               <hi>The Staues are to be sold in Marke lane, at the house of</hi> FRANCIS COOKE.</p>
+            <figure/>
+            <p>Imprinted at London by Richard Field for Robert Dexter. 1596.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:15647:2"/>
+            <pb facs="tcp:15647:2"/>
+            <head>TO THE RIGHT HONO<g ref="char:EOLhyphen"/>RABLE, CHARLES LORD HOWARD, BARON OF EFFING<g ref="char:EOLhyphen"/>HAM, <hi>LORD HIGH ADMI<g ref="char:EOLhyphen"/>rall of England, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I presented this little booke in writing vnto you (right Honoura<g ref="char:EOLhyphen"/>ble) I did little thinke that it should haue come vnto the Printers hand: but the Staffe being shewed vnto diuerse men that were desirous to know the vse thereof, I thought the labour would be too long to teach euerie one, and to write it out continually, the pains would haue bin much more. Therefore to saue both my paines in writing, and my labour in teaching, I could finde no better meanes, then to commit it vnto the presse. Considering then that it must abrode, I beseech your Honour, that it may appeare vnder your name, that as it pleased you at the first to giue it a friendly entertainment, so now you would also be Patron vnto the same, that your authority protecting, and your wisdome allowing it, you may stay the vnaduised censure of some rash conceipted men. Wherby I shalbe both encoraged to a further study, and bound to pray for your Honours increase in all good things.</p>
+            <closer>
+               <signed>Your Honors most humble, <hi>Thomas Hood.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:15647:3"/>
+            <head>To the courteous Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Present vnto thee (gentle Reader) in one small Volume, the vse of two Mathe<g ref="char:EOLhyphen"/>maticall Instruments, the one is the Crosse Staffe: the other, the Iacobs Staffe. In the deliuery of their vse, I haue done mine endeuour to lay out the mat<g ref="char:EOLhyphen"/>ter most plainely, that thou maist finde commodity in the thing. That is all my desire, which if I may attaine vnto, I shall be glad. If any thing seeme otherwise vnto thee, accept my good will, whose purpose was to satisfie thy minde: and interprete hereof faucurably, at the least, because it is my first labour that euer came abroad. So shall I be the more willing to take farther paines, and to commit such other things vnto thy sight, as I haue in hand. Farewell.</p>
+            <closer>
+               <signed>Thine <hi>Th. Hood.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="dialogue">
+                  <pb facs="tcp:15647:3"/>
+                  <head>A Dialogue touching the vse <hi>of the Crosse Staffe.</hi>
+                  </head>
+                  <sp>
+                     <speaker>Scholler.</speaker>
+                     <p>
+                        <seg rend="decorInit">H</seg>Auing vnderstoode that you haue a kinde of Crosse Staffe, somewhat differing from those of the common sort, I am somewhat bold to request a litle conference with you about the same.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maister.</speaker>
+                     <p>Not so bold as welcome: It is my desire to further all men what I can. I pray you therefore briefly to propound what you would haue, and I will returne an aunswer to your contentation, so farre forth as I may.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>First, I desire to know, what end you haue generally in the thing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The Staffe may be vsed to diuerse purposes: but my chiefest end and intention therein, is to take the height of the Sunne aboue the <hi>Horizon.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>May not a man do it as well by the other Staffe, com<g ref="char:EOLhyphen"/>monly which is called <hi>Bella Stella?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Comparisons are odious, therefore I omit that mat<g ref="char:EOLhyphen"/>ter, and request you to propound some other question. Yet this I say, that this Staffe is not so troublesome as that, which you haue named. Moreouer, the degrées thereof are greater then those of the other Staffe, though the Staues themselues be of equall length. For <hi>5.</hi> of them are as bigge as <hi>15.</hi> in the <hi>Bel<g ref="char:EOLhyphen"/>la Stella.</hi> Neither are you tied vnto an <hi>Horizon:</hi> for it may be vsed both by land and sea: and without applying it vnto your sight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>These be no small commodities. If therefore I may
+<pb facs="tcp:15647:4"/>obtaine at your handes the vse of this Staffe, I shall thinke my selfe not a litle beholding vnto you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Your request is graunted: Take therefore what order you thinke best for your instruction.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Because I would haue all things plainly deliuered, I will kéepe this order in my questions. First. I wil begin with the two péeces of wood: and then with the sockets: thirdly, I will request the vse of the Vane: and last of all, howe the Sunnes altitude may be found out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Do so: and I will labour to fulfill your mind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>First therefore, what names doe you giue vnto these two péeces of wood?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>I call the one the Yard, the other the Transame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What meane these markes that are in them?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>They are degrees of altitude, with their minutes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>But how shall I distinguish the Transame from the Yard, seeing the degrees in them both be all of one quantitie, neither hath the one of them any more degrees then the o<g ref="char:EOLhyphen"/>ther?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is true that there be <hi>45.</hi> degrees in each of them. The Transame containeth the first, namely, all the degrees from <hi>1.</hi> to <hi>45:</hi> the Yard containeth the rest, namely, the de<g ref="char:EOLhyphen"/>grees from <hi>45.</hi> vnto <hi>90.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is that of necessitie that they should do so?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>No: But by this meane I make the degrees so great as they are.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Then I perceiue this: that <hi>from the rysing of the Sunne, vntill he be raysed 45. degrees aboue the Horizon, his eleuation must be taken in the Transame.</hi> Againe, <hi>after that he is 45. degrees aboue the Horizon, his eleuation must be taken in the Yard.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is so.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>May I easily knowe by this staffe, when the Sunne is vnder <hi>45.</hi> degrees, and when he is aboue <hi>45.</hi> degrées of ele<g ref="char:EOLhyphen"/>uation?</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:4"/>
+                     <speaker>Ma.</speaker>
+                     <p>Most easily, and readily: as you shall be taught here<g ref="char:EOLhyphen"/>after.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Why is the yard cut off so close vnto the <hi>90.</hi> degrée?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>That it may the better come vnto your sight: where<g ref="char:EOLhyphen"/>in the Centre of the circle is imagined from whence all the lines do come.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Thus much concerning the Transame, and the yard. Now for the Sockets: to what purpose serue they?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>They be made to ioyne the Transame and the yard together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What principall note is to be obserued in them?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>
+                        <hi>They must be ioyned together squire wise, at right angles.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>To what end are the notches in them?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The notches serue to this purpose, <hi>to see how to set the Transame, and the yard iust vppon his place.</hi> For the brasse carying a certaine thickenesse with it, doth hinder my sight so, that I cannot well iudge of the true place whereon they should stand, were it not for these notches, which must bee no déeper, then the thickenes of the brasse, or if they be deeper, they must be both of one depth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>To what end serue the Scrues?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>They serue to none other purpose but this, namely, to kéepe the Sockets fast in their places that they slip not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>May I put the Sockets vpon the yard which way so euer I will, without any difference?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>No: But you must take héede of this, that the Socket wherein the Transame must be put, must alwaies hang downeward, for so it is best: otherwise there is not any great héede to be taken. And yet for auoiding of confusion, let this be your rule, that <hi>The end whereat your two Sockets close toge<g ref="char:EOLhyphen"/>ther, be next vnto your sight.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>To what end serueth the Vane?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It serueth to take the eleuation of the Sunne, and also to saue your sight from the beames thereof.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:5"/>
+                     <speaker>Sc.</speaker>
+                     <p>In what maner I pray you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Of that I will enforme you hereafter: for the maner being diuers, cannot wel be set down here, without confusion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Whereupon must the Vane stand?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Sometimes vpon the Transame, and sometimes vpon the Yard, according as the manifold vse of the Staffe requireth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is it any matter to which hand it standeth? either to the right hand, or to the left?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yea that it is: and this Rule shal alwayes serue your turne, <hi>When the Transame standeth on the right hand of the Yard, let the Vane bend toward the left hand: and contrari<g ref="char:EOLhyphen"/>wise, when the Transame standeth on the lefte hand of the Yard, let the vane bend toward the right hand.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Now let me know how I shall ioyne the Transame and the Yard together: for to that end were the brazen soc<g ref="char:EOLhyphen"/>kets made.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>They are to be ioyned together diuersly, according as the Staffe is diuersly vsed.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is the staffe then to be vsed after more waies than one?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma:</speaker>
+                     <p>Yea, for you may choose whether you will apply it vnto your eys (as you do the <hi>Balla stella</hi>) or whether you will holde it in your hand, and find the height of the Sunne by the shadow of the Vane.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is there any generall obseruation to be noted in these seuerall vses?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yea: For this is a generall rule, that <hi>whether you apply it vnto your eye, or whether you holde it in your hand, the Transame must be alwaies perpendicular vnto the Ho<g ref="char:EOLhyphen"/>rizon, and the yarde leuell vnto the same.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>But how shall I be assured of the perpendicularitie and the parallelitie of the one and the other?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>At the Sea, whers your <hi>Horizon</hi> is frée if you bring the Yard euen with the closing of the heauen &amp; the <hi>Horizon.</hi>
+                        <pb facs="tcp:15647:5"/>it is enough: But vpon the Lande, or looking out at a Win<g ref="char:EOLhyphen"/>dow of an house, or standing in the stréete, you may adioyne vnto the one side of your Transame a Plummet of Leade, thereby to finde out his perpendicularitie. Yet do I not thinke that so necessary, because I know, that a little practise will make the eie a reasonable iudge both of the perpendicularity, and of the parallelitie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Let vs now come vnto the particular vse of the Staffe. You say that in séeking out the eleuation of the Sunne, I may choose whether I will set the Staffe vnto mine eie (as I do the <hi>Bella stella</hi>) or whether I will hold it in mine hand.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is so.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>I pray you therefore instruct me first concerning the vse of that, when I must set it vnto mine eie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>This one thing is not to be neglected, that it must stand on the ball of your chéeke, for that place is most conue<g ref="char:EOLhyphen"/>nient, because it doth not lightly yéelde, neither is the sight thereby distorted: Yet if any man thinke it méeter to apply the Staffe to the corner of his eie next to the eare, I will not gainesay him, because the sight is not to euery man so ready in one place as it is in an other.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>How must I in this case ioyne, the Transame and the Yard together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>
+                        <hi>Put the Yard into his socket, so that the notch may stand iust vpon the 45. degree. Then put the Transame into his socket in like manner, that the notch may be vpon the 45. degree.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is it not materiall which waies the degrées stand, ei<g ref="char:EOLhyphen"/>ther vpward or downe ward, or on the side?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Let this be your rule: <hi>Keepe the degrees of the Yard vpward, and let the degrees of the Transame be toward you, so shall you be the lesse deceiued.</hi> Otherwise to them that are cunning, it is neither here nor there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is there any thing to be obserued in the placing of the Vane, more then hath béene said before?</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:6"/>
+                     <speaker>Ma.</speaker>
+                     <p>This is to be noted, that <hi>the edge of the Vane must be placed iust with the highest degree of the Transame.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Each thing being fitted in this maner, how shall I take the height of the Sunne?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>First, <hi>you must know whether the Sunne bee more or lesse then 45. degrees aboue the Horizon.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>How shall I know that quickly? for me thinketh that should be troublesome.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is most easie. The Transam and the yard being ioy<g ref="char:EOLhyphen"/>ned together, as you haue béene taught: turne the <hi>90.</hi> degrees of the yard toward your breast (it is no matter for setting it vnto your eie) and bring the Transame right against the Sunne, vntill the shadowe thereof fall euen with the side of the yard. <hi>If the shadow of the Transame from the toppe of the Vane downward be longer then the yard, it is a most certaine signe that the Sunne is under 45. degrees high. If it be shorter, the Sunne is more then 45. degrees high.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>If the Sunne be lesse then <hi>45.</hi> degrées high, what must I do?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Set the Staffe close to your eye, kéeping the yard par<g ref="char:EOLhyphen"/>rallele vnto the <hi>Horizon,</hi> as you haue beene taught before: then let the Transame sinke downe into his socket, vntill the toppe of the Vane come euen with the Centre of the Sunns, the number of the degrées from the top of the vane to the notch of the Socket will declare his eleuation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>This thing is plaine enough. May not his eleuation yet be found out any other way by the Transame, while the Sun is vnder <hi>45.</hi> degrées.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It may be found out otherwise in this manner: Put that end of the Transame into his Socket, which contey<g ref="char:EOLhyphen"/>neth the beginning of the degrées, let the first degrée come euen with the notch, as the <hi>45.</hi> degrée did before, and make the Transame fast with the scrue: then set the yard vnto your eie, and kéeping it leuel, moue the Vane vp and downe, vntill the vppermost edge thereof come euen with the Centre of the
+<pb facs="tcp:15647:6"/>Sunne: the degrée vppon which it lighteth is the Sunnes al<g ref="char:EOLhyphen"/>titude.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Thus much concerning the Sunne whiles he is vnder <hi>45.</hi> degrées. What must I do to finde his altitude being aboue <hi>45.</hi> degrées?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The Yard, Transame, and Vane being orderly pla<g ref="char:EOLhyphen"/>ced, as it was taught before, set the yard vnto your eie, and kéeping it leuel, draw the Transame to you ward, vntill the Vane be euen with the Centre of the Sunne: the degrée then of the yard, vpon which the notch of the socket lighteth, decla<g ref="char:EOLhyphen"/>reth vnto you the height of the Sunne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is there any more to be sayde concerning the vse of the Staffe, when it is applied vnto the eie?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>No: For I haue at large declared the same: so that now it remaineth to tell you, how the Staffe may be vsed, although it be not applied vnto the eie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>One thing let me first demaund: May not I take the height of any starre in the same manner as I haue taken the height of the Sunne?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yes, that you may: Neither is there any difference in the one from the other. You may also take the distaunces of any two starres thereby, so that they be not further asunder then <hi>90.</hi> degrées, following the selfe same precepts which you haue bene taught concerning the Sunnēs altitude. For if the two stars be lesse then <hi>45.</hi> degrées asunder, they will be with<g ref="char:EOLhyphen"/>in the end of the Transame, and the yard. Then set the yard against the one starre, and draw the Transame into his sor<g ref="char:EOLhyphen"/>ket, vntill the edge of the Vane light vpon the other star, and the degrees of the Transame will shew their distaunce. If the two starres propounded he more, then <hi>45.</hi> degrées asunder, it is certaine, that they will he without the compasse of the Transame. Then draw the Transame towarde your sight, vntill the end of the yard light vpon the one starre, and the edge of the Vane vppon the other starre, and the degrees of the yard will shew their distaunce, so that you may take the
+<pb facs="tcp:15647:7"/>distance of any two starres that are <hi>90.</hi> degrées asunder.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Now let vs returne vnto the former question: how must the Transame and the Yard be ioyned together, and how must the Vane be placed, if I be not disposed to set the staffe vnto mine eie?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The ioyning of them, is after diuerse maners, accor<g ref="char:EOLhyphen"/>ding as the vse doth differ. First, you may find the sunnes ele<g ref="char:EOLhyphen"/>uation in the same maner, as you did before, although you do not apply the staffe vnto your eie, and therefore in this case the Transame and the Yard must be ioyned together, as they were before, and the Vane must also stand after the same manner.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>How then shall I finde the Sunnes eleuation?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Set the palme of your hand close to the end of the Yard where the <hi>90.</hi> degrée is placed, and then turne the Tran<g ref="char:EOLhyphen"/>same vpon the Sunne, and pull downe the Transame into the socket, vntill the shadow of the toppe of the Vane fall iust vppon the end of the Yard close to your hand: Then the de<g ref="char:EOLhyphen"/>grée of the Transame next vnto the socket, is the Sunnes e<g ref="char:EOLhyphen"/>leuation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>I perceiue that in this case also I must hold the yard ve<g ref="char:EOLhyphen"/>ry leuell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yea, that you must: and so shall you be sure of the Sunnes altitude.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>May I finde the Sunnes eleuation thus, if he be more then <hi>45.</hi> degrées high?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yea, euen as you did before. For this is all the dif<g ref="char:EOLhyphen"/>ference, that your hand standeth now in stead of your eie And I am of this minde, that if you take héede vnto the leuell of your yard, you may take the Sunne as precisely this way, as you do with applying the staffe vnioy our ete. Besides, this is one commodity, you shall not day<gap reason="illegible" resp="#uom" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n your sight, and hurt it as you did before.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What other way is there yet to vse the Staff, and how must I ioyne the Transame and the yard together?</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:7"/>
+                     <speaker>Ma.</speaker>
+                     <p>There is yet an other way to finde out the height of the Sunne without setting the staffe vnto your eie. For the performaunce of which conclusion, you must set the yard and the Transame together thus. Put the Transame into his soc<g ref="char:EOLhyphen"/>ket so, that the beginning of the first degrée may fall <gap reason="illegible" resp="#uom" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> with the notch: then make it fast with the scrue: put the yard <gap reason="illegible" resp="#uom" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> to his socket, in such sort that the <hi>45.</hi> degree fall eu<gap reason="illegible" resp="#uom" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <gap reason="illegible" resp="#uom" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> notch, and set the Vane at the other end of the yard, as you were instructed before.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>How must I vse it then?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>You must here also haue that consideration which you had before of the Suns eleuation, whether he be more or lesse then <hi>45.</hi> degrées, which is knowen by the rule giuen in the be<g ref="char:EOLhyphen"/>ginning.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>If the Sunne be lesse then <hi>45.</hi> degrées high, how must I hold the staffe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Let the Transame hang downeward toward your féete, and turne the Vane which is vpon the yard to the sunne vntill the shadow of y<seg rend="sup">e</seg> yard fall iust with the side of the Trant same: the degrée of the Transame, vppon which the shadow o<g ref="char:EOLhyphen"/>the Vane doth fall, declareth the height of the Sunne.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is it materiall which side of the shadow I do choose?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yea, For that side of the shadow must be chosen, which is made by that part of the Vane, which is next vnto the end of the yard, as you may sée in the figure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>I perceiue your meaning in this. But how must I hold the staffe, if the Sunne be more then <hi>45.</hi> degrees high?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Then must the Transame lie leuell with the <hi>Hori<g ref="char:EOLhyphen"/>zon,</hi> which before did hang perpendicular, and the yard must stand vpright toward your Zenith. Then turne the yarde to<g ref="char:EOLhyphen"/>ward the Sunne so, that the shadow thereof fall close to the side of the Transame, marke vpon what degrée of the Tran<g ref="char:EOLhyphen"/>same the shadow of the vppermost side of the Vane falleth, sub<g ref="char:EOLhyphen"/>duct that out of the <hi>90.</hi> degrées, and the remainder sheweth the Sunnes eleuation.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:8"/>
+                     <speaker>Sc.</speaker>
+                     <p>May not the height of the starres bee found out in this manner?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>No: By reason their beame is so weake that it cannot cast a shadow; but the beame of the sunne being so strong, his height may thus be easily found out, and very readily, and al<g ref="char:EOLhyphen"/>so certainely, hauing onely this care, that the staffe be kept le<g ref="char:EOLhyphen"/>uell as it ought to be.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is there any thing else to be saide concerning the vse of this staffe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It may be vsed to diuerse other purposes (as I said in the beginning:) namely, to the description of Regions, and Countries: to the finding out of the quantities of the Eclipses of the Sunne and Moone: with the longitude and latitude of the Planets. This staffe also serueth to the correcting of the places of the fixed stars: &amp; to the setting downe of the ampli<g ref="char:EOLhyphen"/>tude of the rising or setting of the Sunne or Stars. But mine intent was onely to take the Sunnes eleuation therwith. Yet haue I told you how to take the altitude of the stars with their distances, by the same staffe: which for this time shall suffice. The other propositions I will lay forth, either in my publike lectures which I read, or at other more conuenient time, as my leysure serueth.</p>
+                  </sp>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:15647:8"/>
+                  <p>THE VSE OF THE IACOBS STAFFE.</p>
+                  <figure/>
+                  <p>Imprinted at London by Richard Field, for Robert Dexter. 1596.</p>
+               </div>
+               <div type="dedication">
+                  <pb facs="tcp:15647:9"/>
+                  <pb facs="tcp:15647:9"/>
+                  <head>TO THE RIGHT HONO<g ref="char:EOLhyphen"/>RABLE, L. IOHN LVM<g ref="char:EOLhyphen"/>LEY, BARON OF LVMLEY. &amp;c.</head>
+                  <p>
+                     <seg rend="decorInit">A</seg>Fter that I had penned (Right ho<g ref="char:EOLhyphen"/>norable) the vse of the Crosse staffe, I was desired by mine acquain<g ref="char:EOLhyphen"/>tance, to take the paines in the Ia<g ref="char:EOLhyphen"/>cobs staffe. I did so: my paines were liked and called (as the former) vnto the presse. Without a Patrone I would not haue it come forth, be<g ref="char:EOLhyphen"/>cause I would not be thought to bee without a Patrone. To rrouble one man with them both, I thought it not good, least I should seeme forgetfull of other my well-willers: among whom your good will, shewed vnto me at diuerse times, hath emboldened me to craue your pa<g ref="char:EOLhyphen"/>tronage for the thing, which if it shall please your Ho<g ref="char:EOLhyphen"/>nour to vndertake, I shall accompt it as a speciall token of your louing fauour, and acknowledge myselfe in re<g ref="char:EOLhyphen"/>compence, bound to pray for your Honours daily en<g ref="char:EOLhyphen"/>crease in all kindes of blessings.</p>
+                  <closer>
+                     <signed>Your Honours most <hi>humble. Th. Hood.</hi>
+                     </signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="dialogue">
+                  <pb facs="tcp:15647:10"/>
+                  <pb facs="tcp:15647:10"/>
+                  <head>A Dialogue touching the vse of <hi>the Iacobs Staffe.</hi>
+                  </head>
+                  <sp>
+                     <speaker>Scholler.</speaker>
+                     <p>
+                        <seg rend="decorInit">S</seg>Ince my last departure from you, I haue diligently applied the crosse Staffe, accor<g ref="char:EOLhyphen"/>ding vnto the rules which you haue pre<g ref="char:EOLhyphen"/>scribed, and finde the same to be very con<g ref="char:EOLhyphen"/>uenient for the purpose, which you haue set downe: that is, for the taking of the height of the Sunne and Starres, with their di<g ref="char:EOLhyphen"/>stances: Yet can I not stay my selfe here, but must once againe presume vpon your courtesie.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maister.</speaker>
+                     <p>What is it that you desire? I loue not many words but you shall find me most ready to pleasure you, or a<g ref="char:EOLhyphen"/>ny man els, as far forth as my simple skill will afford me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>This is the matter: I would gladly learne the vse of the Iacobs Staffe as well as I haue learned the vse of the crosse staffe: May I not therefore so deuide the crosse staffe on the one side, that it may serue my turne for a Iacobs staffe, so that I be not troubled with the cariage of any more then one?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yes, very well. And loe, here is one so diuided, that as the one side of the Yard and Transame serueth for the Sun and Starres, so the other serueth for any dimension.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>This falleth out euen as I would haue it: seeing there<g ref="char:EOLhyphen"/>fore the Staffe is ready at hand, if your leysure serue, I pray you instruct me in the vse thereof.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>With a good will: Moue you the questions, and I will answere them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Why doe they call it Iacobs Staffe? Was he the first inuentor of the thing.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:11"/>
+                     <speaker>Ma.</speaker>
+                     <p>I know not that: but they take occasion to call it so, by reason of those wordes which are written <hi>Gen. 32.10.</hi> where the Patriarch sayth, <hi>That with his Staffe he came ouer Iordane:</hi> Wherein I thinke, they misconstrue his meaning. Notwith<g ref="char:EOLhyphen"/>standing, by whom soeuer it was inuented, the Instrument questionlesse is of singular vse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Let that passe, and declare I pray you, what affinity this Staffe hath with the other. For comparisons will make a thing more plaine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>First, as in the other Staffe, the degrées of the Yard and Transame are all one in number, so are the partitions in this. Secondly, as the yard and Transame in that, did ioyne together squarewise and at right angles, so must they doe in this. Thirdly, there must the same consideration be had in pla<g ref="char:EOLhyphen"/>cing of the Vane in this, that was had in the placing of the Vane in the other: that is, it must stand euen with the begin<g ref="char:EOLhyphen"/>ning of the partitions, except some speciall occasion require o<g ref="char:EOLhyphen"/>therwise, as is to be séene in the measuring of breadthes. Fourthly, <hi>One of the two, either the Yard or the Transame, as occasion serueth, must be parallele vnto the thing measured, the other must be perpendicular.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Is that a rule to be noted in the Iacobs staffe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yea that it is: otherwise it is most certaine you com<g ref="char:EOLhyphen"/>mit an errour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Then haue I béene amisse informed, as I haue séene men, that haue thought them selues to be of no small cunning in the vse of the Staffe, who measuring the height of a thing, haue made no matter how they held their Staffe, so that they did sée the toppe and the bottome of the thing to be measured, euen with the two ends of their Transame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Belaeue me in this, that it cannot be that their practise should be true. This one argument shall serue for a thousand. You know that the proofe of the vse of the Iacobs staffe stan<g ref="char:EOLhyphen"/>deth vppon the proportion of Triangles. Now those Trian<g ref="char:EOLhyphen"/>gles onely are proportionable which are like, and in like ma<g ref="char:EOLhyphen"/>ner
+<pb facs="tcp:15647:11"/>situated, which they can neuer be except either the yard, or the Transame be parallel or perpendicular (as occasion ser<g ref="char:EOLhyphen"/>ueth) to the thing measured.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Your reason is good that it shoulde be so: but me thinketh that the perfourmaunce thereof should bee impos<g ref="char:EOLhyphen"/>sible.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Why so?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>You know that many Fields be full of Dales and hol<g ref="char:EOLhyphen"/>low places: others be full of Hilles and Mountaines. More<g ref="char:EOLhyphen"/>ouer, many things stand not vpright vpon the ground, but leane either forward or backeward, or else to the one side or to the other. Last of all in the bredth of a thing there is a great variety. For be it in a wall, or fielde, or what else whatsoe<g ref="char:EOLhyphen"/>uer, there is for the most part either hollownesse or round<g ref="char:EOLhyphen"/>nesse, or some such like thing which may make it impossible in my iudgement to draw either parallele or perpendicular line vnto them.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>I graunt those things to bee as you say: yet doe they not hinder a man from taking the measure of their length, height, or breadth. For where the place it selfe doeth not affoorde a leuelnesse: it is an easie matter to i<g ref="char:EOLhyphen"/>magine it leuell. Thus also you must thinke with your selfe, that although Geometry bée the Arte of measuring well, and generally nothing may be excluded from the com<g ref="char:EOLhyphen"/>passe thereof, yet must we not bee too curious in particu<g ref="char:EOLhyphen"/>lars, least we shew our selues either ouer wise, or else too foolish. The Phisitian generally professeth to heale all disea<g ref="char:EOLhyphen"/>ses, but when he commeth to deale with particular bodies, he faileth in his art, and yet is not to be discommended so long as he doeth that which Art requireth. It is enough for the Geometrician, if he giue the iust length of a streight line drawen betweene two places assigned. Or if hee can not doe it by one streight line, he may doe it by many. Whosoeuer immediately (for mediately he may finde out the length of a crooked line by meanes of a straight line)
+<pb facs="tcp:15647:12"/>whosoeuer, I say, requireth any more of him then that, he a<g ref="char:EOLhyphen"/>buseth both the man and the art. Therefore, when any thing is propounded to be measured, be it length, height, or breadth, you are first of all to consider, whether the thing lie leuell, or stand vpright, or be straight, as it is required that it should be. If it be straight, you may presently fall in hand to measure it, as your rule shall direct you: If it be not straight, but be either crooked, or leaning one way or another, it must be your principall care, first to fit the same to your purpose: as for ex<g ref="char:EOLhyphen"/>ample, in measuring the distance of a thing (for I will first be<g ref="char:EOLhyphen"/>gin with that dimension, and will afterwards teach you what you shall doe in the rest) if the distaunce betwéene two places assigned be not straight, as you sée in these figures which fol<g ref="char:EOLhyphen"/>low it is not, then choose out two points in the distance, the one being at the one end thereof, and the other in the other, be<g ref="char:EOLhyphen"/>twéene which you may imagine a right line to be drawen, and then so hold your Staffe, that the yard or the Transame may be parallele, or perpendicular vnto it, as occasion shall serue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>You haue throughly satisfied me in this. Tell me now wherein these staues do differ, séeing you haue declared wher<g ref="char:EOLhyphen"/>in they doe agrée.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Their difference consisteth in two things especially: in their partitions, and in their vse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Touching the first difference, it is euident indéed, that the parts of the other Staffe are vnequall, and that this is di<g ref="char:EOLhyphen"/>uided into equall portions: but maketh it any matter howe many the parts are into which this Staffe is deuided?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>No: The more the better, and more precise will your worke be. And therfore, if you could diuide them into <hi>100000.</hi> it were the more commendable, but <hi>1000.</hi> sufficeth in this Staffe, which though it be not deuided into more, yet you may imagine it to be an hundred times as much as it is.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What is the difference in the vse of the Staues?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The generall difference is this: the other serueth for Astronomicall matters: this serueth for measuring of land.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:12"/>
+                     <speaker>Sc.</speaker>
+                     <p>What meane you by those words, <hi>Measuring of land?</hi> Is it to take the breadth, or length only of a field? or may it be applied otherwise?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The truth is this, that by this Staffe we may mea<g ref="char:EOLhyphen"/>sure the length, the height, and the breadth of any thing, all the which we expresse by those words, <hi>Measuring of land:</hi> ha<g ref="char:EOLhyphen"/>uing relation to the word <hi>Geometry,</hi> which signifieth the same if it be construed word for word.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Before I doe come vnto the particular measuring of these thrée dimensions, length, height, and breadth, what gene<g ref="char:EOLhyphen"/>rall notes haue I to obserue?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>First, <hi>that whether the Yard or the Transame be ap<g ref="char:EOLhyphen"/>plied vnto your sight, it must stand close vnto the ball of your cheeke.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>But which end of the Yard or Transame must stand to the sight ward?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>That which hath the beginning of the degrées: for so it is most conuenient for the readinesse of your account. The second note is this: <hi>to winke with one eie.</hi> For the sight by that meanes will aime at your marke the better, when it is not parted but brought into one. The third obseruation is this: that, <hi>the distance of your marke be not ouer great.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Why do you giue this note, considering that in the vse of the other Staffe, there was no limitation made of any di<g ref="char:EOLhyphen"/>stance? For you measured therewith the starres in heauen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The case is not all one, because the Starres haue a brightnesse which helpeth their sight, and their beame com<g ref="char:EOLhyphen"/>meth directly from the Centre of their body, vnto our eye. But in terrestriall things it is not so: For in them, by reason of the weakenesse of our sight, we may be greatly deceiued, ex<g ref="char:EOLhyphen"/>cept they be within a reasonable compasse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What do you call a reasonable compasse, or distance?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It cannot well be defined, because there are so many things required therein, that they will hardly iumpe all toge<g ref="char:EOLhyphen"/>ther generally: as these, the clearenesse of the aire: the good<g ref="char:EOLhyphen"/>nesse
+<pb facs="tcp:15647:13"/>of the sight: the largenesse of the instrument. The aire may be cleare, but the sight of a man may be dull. Againe, the sight may be quicke enough, but the aire may be thicke. A<g ref="char:EOLhyphen"/>gaine, both the aire and sight may serue the turne, but the in<g ref="char:EOLhyphen"/>strument which he is to vse may be so small, that he can not take any thing farre distant from him. So that we cannot ge<g ref="char:EOLhyphen"/>nerally determine of the distance otherwise then thus, saying that that is a reasonable distaunce, which is proportionable both to our instrument and sight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Procéede I pray you in the matter wherein you were.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>
+                        <hi>The fourth regard must be had vnto your hands that they be steddy.</hi> For otherwise you may misse of the proporti<g ref="char:EOLhyphen"/>on of your measure. The last note is this, <hi>to take heede vnto the place wherein you make your station.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>How shall I be sure of that?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Thus: You know this, that either you stand vpright, or else leane one way or other. To be short, howsoeuer your situation be, whether it be standing, sitting, leaning, or vp<g ref="char:EOLhyphen"/>right, that is the place of your station, which is right beneath your eie, so directly as is possible to be iudged and taken.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>These fiue things you say are generally to be noted. <hi>1. The setting of the Saffe at the ball of the eye: 2. The wincking with one eie: 3. A reasonable distance: 4. A steddy hand: 5. The certaine place of your standing.</hi> Let vs now come vnto the particular vse of the Staffe in the thrée dimensions. You say, the Iacobs Staffe serueth to take the length, the height, and the breadth of any thing: Are these dimensions found out any more waies then one?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yea: The length, and the height, are found out thrée seuerall waies, and the breadth two waies. The first and the second way require one station: the last way in each dimen<g ref="char:EOLhyphen"/>sion is performed by two stations.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What meane you by a station? and what is it to per<g ref="char:EOLhyphen"/>forme a thing by one or moe stations?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>A station is nothing else but the place wherein you
+<pb facs="tcp:15647:13"/>stand: to performe a thing therefore at one station, is nothing else but by a standing in one onely place by the helpe of your instrument, to take the measure of a thing. To performe it at two stations, is by standing in two seuerall places to take your measure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What generall note is there to be obserued, when we measure a thing at one station?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>You know this, that the measuring of a thing by the Iacobs Staffe, dependeth wholly vpon proportions, whose drift and finall end is this, by thrée numbers giuen, to find out the fourth. Two of these numbers are alwaies the partes of your Staffe, the one being the partes of your Transame, the other of the yard: the which numbers must be placed accor<g ref="char:EOLhyphen"/>ding as the rules which follow shall direct you. The thirde number of proportion is some assigned measure in this man<g ref="char:EOLhyphen"/>ner. If you measure the length of a thing, some certaine height must be assigned. If you measure the height or breadth of a thing, some certaine length, or distance must be giuen you for your thirde proportionall number, and this number must kéepe the third place in the rule of proportion, or Golden rule, or rule of thrée, as we do commonly terme it. Then must we say thus: that, <hi>as the partes of the Transame cutte off by the Yard, are vnto the parts of the Yard cut off by the Transame:</hi> Or contrariwise: <hi>As the parts of the yard cut off by the Tran<g ref="char:EOLhyphen"/>same, are vnto the parts of the Transame cut off by the yard, so is the assigned measure which is giuen you, vnto the mea<g ref="char:EOLhyphen"/>sure of the thing sought for.</hi> This is the chiefest note in mea<g ref="char:EOLhyphen"/>suring at one station.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What note is there to be obserued in measuring at two stations?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>There are thrée things specially to be noted: The first is, <hi>the making of your stations, that they be both of them in a right line with the thing to the which you leuell your staffe, whether you go forward or backward.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>How may that be done?</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:14"/>
+                     <speaker>Ma.</speaker>
+                     <p>Choose out some marke in the thing to be measured, which may be leuell with your eye, then set vp two staues where you minde to make your two stations, so that standing at the further Staffe, you may bring the other iust with the marke which you doe choose out: so shall you be sure that the two stations are in a right line with the marke chosen. For it is a generall rule, that <hi>if three pointes be in one leuell of the eye, those three pointes are in one right line.</hi> The second is, <hi>that your eye be no higher at the one station then it is at the o<g ref="char:EOLhyphen"/>ther.</hi> This is to be done by the rule which I gaue you euen now For if you, standing at your second station, and holding your Staffe leuell from your sight, can sée the top of the Staffe which standeth at your first station, and also the marke which you choose, it is a certaine signe that your eye is in his iust height. The third note is, <hi>that the distuance betweene the two stations be diligently taken, and that in a right line, so neare as is possible:</hi> because the whole art of measuring by the Iacobs staffe, dependeth vpon a right line. This distance must be the third number of your proportion. And these be the chiefest ob<g ref="char:EOLhyphen"/>seruations that I remember. If there be any thing else, I will put you in minde thereof as occasion serueth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Let vs come now vnto the particular dimensions, and beginne first with the length? What call you the lenth of the thing measured?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is the distaunce betwéene the place whereon you stand, and the place assigned, vnto which you direct your sight: and in this case we commonly say thus: How farre is it from my foote, to such or such a thing? as a Trée or House. &amp;c.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Giue me now the rules whereby I may direct my selfe in measuring any distance giuen.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The first rule requireth, <hi>that the yard should be per<g ref="char:EOLhyphen"/>pendicular to the length measured:</hi> And that is this. <hi>The yard of your Staffe being perpendicular vnto the thing measured. If your sight passe from the top of the yard ouer the end of the Transame to the farther end of the thing propounded, as the
+<pb facs="tcp:15647:14"/>partes of the yard cut off by the Transame, shall be vnto the parts of the Transame cut off by the yard, so shall the height of him that measureth bee vnto the length of the thing pro<g ref="char:EOLhyphen"/>pounded.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Here are two questions to be propounded. First, what call you the end of the Transame?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>That is generally called the end of the Transame, o<g ref="char:EOLhyphen"/>uer the which your eie sight passeth wheresoeuer it be, whether it be in the very end of the wood it selfe, or any other place, where you list to set the Vane, so that your eye sight passe by that place.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Secondly, what call you the height of him that mea<g ref="char:EOLhyphen"/>sureth? For some man may be, and is a great deale higher then another.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The height of the measure is the distaunce betwéene the top of the Staffe and the thing measured: as in the 1. figure from y. to o. and from a. to o. is the height of the measurer: so that whether he stand vppon the ground at the one end of the distance assigned, or whether he stand vpon some higher place, the maner of worke is all one: this being noted as a generall rule: <hi>That the height of the top of the yard from the ground, must be certainely knowen.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Expresse the meaning of your Rule by some example.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Put case the partes of the Yard cut off by the Tran<g ref="char:EOLhyphen"/>same bee <hi>60.</hi> and the partes of the Transame cut off by the Yard be <hi>180.</hi> let the height of the Staffe from the ground be <hi>4.</hi> foote: then I say that as <hi>60.</hi> which are the partes of the Yard, are vnto <hi>180.</hi> which are the parts of the Transame: e<g ref="char:EOLhyphen"/>uen so is <hi>4.</hi> féete, which is the supposed height of him that mea<g ref="char:EOLhyphen"/>sureth vnto the length propounded. So that I conclude the length thereof to be <hi>12.</hi> foote.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>This is easily concluded, and dependeth, as I remem<g ref="char:EOLhyphen"/>ber vpon the <hi>4.</hi> p. of the <hi>6.</hi> booke of <hi>Euclide:</hi> where it is sayed that: <hi>In equiangle triangles, the sides which containe the equall Angles are proportionall, and the sides which are sub<g ref="char:EOLhyphen"/>tended
+<pb facs="tcp:15647:15"/>vnder the equall Angles, are of like proportion.</hi> Moreo<g ref="char:EOLhyphen"/>uer I perceiue (as you told me before) that the third number of the proportion, is the assigned height.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is true: and you may most manifestly perceiue that in the Figure which you sayd concerning <hi>Euclides</hi> propositi<g ref="char:EOLhyphen"/>on: For the <hi>2.</hi> Triangles a. e. i. and a. o. u. are like, because they are situated after one and the selfe same maner: therfore in the Triangle a. e. i. as a. e. is vnto a. i. so in the Triangle a. o. u. a. o. is vnto o. u. Thus you sée the commodity of the Staffe in measuring the length of a thing. And here you must note this, <hi>That it is no matter whether the thing measured do lie in a plaine or flat, or whether it be in the ascention or des<g ref="char:EOLhyphen"/>cention of an Hill, or whether there be any concauity or con<g ref="char:EOLhyphen"/>uexity betweene the ends of the thing measured.</hi> So that by this rule, we may measure the breadth of any Riuer, or of a<g ref="char:EOLhyphen"/>ny Trench, or of any Valley betwéene the tops of the hils, or the distaunce of two Ships at sea &amp;c.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>The first Rule required, that the yard should be perpen<g ref="char:EOLhyphen"/>dicular vnto the thing measured. Put case the yard do lie pa<g ref="char:EOLhyphen"/>rallele vnto it, as it is in the <hi>2.</hi> Figure, what then?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>
+                        <hi>The yard being parallele vnto the thing measured, if your sight passe from the beginning of the yard ouer the ende of the Transame, then, as the parts of the Transame cut off by the yard, are vnto the parts of the yard cut off by the Transam, so is the height assigned vnto the length propounded to bee measured.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>So then by your Rule I conclude, that if the partes of the Transame cut off by the yard be <hi>120.</hi> parts: and the parts of the yard cut off by the Transame be <hi>210.</hi> and the height as<g ref="char:EOLhyphen"/>signed and knowen be <hi>400.</hi> féete, the length to be measured must be <hi>700.</hi> féete, as I perceiue by the Golden rule, and by the proposition of <hi>Euclide</hi> mentioned before.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>You say very true: for considering the two Trian<g ref="char:EOLhyphen"/>gles a. u. o. and a. i. e. are like, it must néedes follow, that as in the lesser Triangle o. u. is vnto u. a: so in the greater e. i.
+<pb facs="tcp:15647:15"/>must be vnto i. a.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>You sayd heretofore, that there were <hi>3.</hi> waies to finde out the length of any thing, whereof <hi>2.</hi> are already set downe: What is the third way?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The two waies already set downe, require but one station. For you are not bound to remoue from the place whereon you first set your foot when you beginne to measure. But this third way requireth a double station, as in the <hi>3.</hi> Fi<g ref="char:EOLhyphen"/>gure, which is many times necessary, because that a Trée, or a Wall, or an Hill, may be betwéene our sight and the end of the thing, whose distaunce from vs we desire to know, so that our sight cannot come vnto the end thereof. The third way dif<g ref="char:EOLhyphen"/>fereth from the former in this, that there is no altitude to be assigned and giuen for the third number of the proportion, but the third number of the proportion, is the distaunce betwéene the two stations.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>I pray you answere me to this: Considering that I must take <hi>2.</hi> stations, at which is it best to begin? Is it best to begin my first station at the end of the distance propounded, and so go backeward? or is it best to begin my first station a good way from the end of the distaunce propounded, and then come for<g ref="char:EOLhyphen"/>ward to make my second station?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>That is neither here nor there: But the common vse is to begin the first station, at the end of the distance propoun<g ref="char:EOLhyphen"/>ded, and so go backward: in the which thing doing, you must take héede of that especially, which I told you before, <hi>that you goe backeward in a straight line:</hi> so that the line imagined to be drawen from the one end of the distance propounded vnto the other, being continued vnto the second station must make but one right line: otherwise you shall erre in your measure more or lesse.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What distaunce is best to be made betwéene the two stations?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The larger the better: For it is good neuer to take a short station, if you may haue a large one: because your er<g ref="char:EOLhyphen"/>rour
+<pb facs="tcp:15647:16"/>will be the lesse thereby.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc,</speaker>
+                     <p>Giue me now the rule which I must follow.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>
+                        <hi>The Yard being parallele vnto the length propoun<g ref="char:EOLhyphen"/>ded to be measured, and your eye at each seuerall station, pas<g ref="char:EOLhyphen"/>sing from the head thereof ouer the end of the Transame, vn<g ref="char:EOLhyphen"/>to something that standeth vpright, at the farther end of the distaunce prounded: as the difference of the greater segment of your Transame shall be vnto the lesser segment: so shall the length betweene the two stations be vnto the distance pro<g ref="char:EOLhyphen"/>pounded.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>In this kinde of measuring, must the Transame kéepe one place vpon the yard, without pulling it nigher, or putting it farther off from the sight?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The rule the I gaue you euen now requireth that it should do so. And then you must note this, that <hi>the farther you go backeward from your first station, the lower must the Transame sinke into his socket.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Giue me an example of that which you haue sayd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Put case that at your first station the partes of the Transame cut off by the Yard were <hi>108.</hi> at your second stati<g ref="char:EOLhyphen"/>on, put case the partes of the Transame cut off by the Yard were <hi>72.</hi> imagine also the distance betwéene your two stations were <hi>40.</hi> féete: I must séeke out the difference betwéene the se<g ref="char:EOLhyphen"/>uerall partes of the Transame cut off by the Yard: which by subduction I finde to be <hi>36.</hi> (for that is the remainder, <hi>72.</hi> be<g ref="char:EOLhyphen"/>ing subducted out of <hi>108.</hi>) whereupon I conclude thus, that as the difference of the greater segment of the Transame, name<g ref="char:EOLhyphen"/>ly, <hi>36.</hi> is vnto the lesser segment, which is <hi>72.</hi> so is the distance betwéene my two stations, to the length propounded: and ther<g ref="char:EOLhyphen"/>fore the length propunded to be measured is <hi>80.</hi> féete. For if <hi>36.</hi> giue <hi>72.</hi> then <hi>40.</hi> féete (which is the distance of the two sta<g ref="char:EOLhyphen"/>tions) must néeds yeeld <hi>80.</hi> Thus haue you hitherto séene the thrée seuerall waies how to measure the length of any thing propounded: It followeth now to instruct you in taking the height of any thing-propounded.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:16"/>
+                     <speaker>Sc.</speaker>
+                     <p>What call you the height of a thing?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The height of a thing, is the perpendicular drawen from the top thereof, vnto the base whereon it standeth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Then you regard not at all the crookednesse of a thing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>No: I care not at all for the fashion thereof. For whe<g ref="char:EOLhyphen"/>ther it leane forward or backeward, to the right hand or to the left, I care not so that from the top thereof I may draw down a perpendicular line: as you sée in the fourth figure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Do you take all this line?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Your measure taketh no more then is from the leuell of your eie vpward: and therfore this must be a generall rule, that, <hi>if the thing propounded to be measured, doe stand leuell with your feete, you must adde vnto the height found out, the height also of your owne stature.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>How many waies is the height of a thing measured?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Thrée maner of waies, euen as the length or distance was.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What must bee the third proportionall number in the first two waies?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>As in the measuring of lengths, the height assigned and giuen, was the thirde proportionall number; so in the measuring of heights, the length assigned is the third number of the proportion:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Giue me the rules to direct me by.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The first rule is this: <hi>Your Transame making a right angle with the height to be measured: and your sight passing from the beginning thereof to the toppe of the height: as the partes of the Transame cut off by the Yard, are to the parts of the Yard cut off by the Transame, so is the length giuen vn<g ref="char:EOLhyphen"/>to the height.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Put case then the parts of the Transame were <hi>60.</hi> and the partes of the Yard <hi>36.</hi> and the length giuen <hi>20.</hi> féete: the height according to the rule must be <hi>12.</hi> féete.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is so: But you must remember to adde the height of your owne stature: so that it shall be in all <hi>16,</hi> féete, or <hi>15.</hi> féete
+<pb facs="tcp:15647:17"/>according as you shall please to allow for your owne height.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Let me request this by the way: is there no rule for the measuring of depths?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is all one with the measuring of heights. For the depth is nothing else but a rehearsed height. And therefore in the measuring of the depth of a thing, <hi>The Yard of your staffe being parallele vnto the side of the thing, whose depth you measure, and your sight passing from the toppe thereof: as the parts of the Transame cut off by the Yard, are to the parts of the Yard cut off by the Transame, so is the assigned length vn<g ref="char:EOLhyphen"/>to the depth of the thing.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>I perceiue your meaning. As for example: If the parts of the Transame be <hi>5.</hi> and the partes of the Yard <hi>13.</hi> and the diameter of the well (which is here in this example the assg<g ref="char:EOLhyphen"/>ned length) be <hi>10.</hi> féete long, the depth must be <hi>26.</hi> féete.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is true, if you account from the top of your Staffe, and therefore that you may haue the iust depth of the thing, you must take away from the aforesaid number as much as is aboue the thing measured: which if you suppose to be one foote in length, then is the well <hi>25.</hi> foote déepe, as appeareth in the fifth figure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Thus much by the way concerning the measuring of any depth. What other rule haue you for the measuring of heights?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The first rule required that the Transame should be perpendicular vnto the height propounded. The second requi<g ref="char:EOLhyphen"/>reth the Yard to be perpendicular: as in the sixt figure: so that it differeth from the other onely in the manner of holding the Staffe. The rule is this: <hi>The yard of your Staffe being per<g ref="char:EOLhyphen"/>pendicular vnto the thing measured as the parts of the yard are to the parts of the Transame, so is the assigned length vnto the height propounded to be measured.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>So that I may conclude thus. If the parts of the Yard be <hi>60.</hi> and the parts of the Transame <hi>60.</hi> and the assigned length be <hi>250.</hi> féete: the height propounded must also be <hi>250.</hi> féete.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:17"/>
+                     <speaker>Ma.</speaker>
+                     <p>Your conclusion is allowable: But I must put you in minde of this, to adde the allowance of your stature, which if you suppose to be <hi>4.</hi> féete, then is the whole height <hi>254.</hi> féete: Now marke this one thing for your further learning.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What is that?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>By this meane you may finde out the seuerall partes of any height propunded: as in the seuenth figure you may finde out how many féete are contained betweene the top and the nether side of the window: or generally betweene any parts else, or placing as many Vanes vpon the Transame, as you would measure seuerall parts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>I must so place my Vanes, that from the end of the yard I may see each part propounded.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>You say right, the rule then must be this: <hi>The Yard being perpendicular, as it was before vnto the height pro<g ref="char:EOLhyphen"/>pounded, as the parts of the yard cut off by the Transame are vnto the distance of the Vanes, so is the whole height, vnto the part thereof propounded.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Let me sheld that I vnderstand you, by propounding an example: I say, that if the partes of the Transame be <hi>50.</hi> and the diffaunce of the Vanes be <hi>20.</hi> partes: and the whole height of the thing measured be <hi>37.</hi> feete, then the part pro<g ref="char:EOLhyphen"/>pounded must be <hi>14.</hi> feete, and <gap reason="illegible" resp="#uom" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>You vnderstand it well. And here is yet another thing to be noted: that if you know the length of any one peece of the thing whose height you desire to know, it is sufficient to bring you to the knowledge of the whole height, as in the <hi>8.</hi> figure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What rule haue you for that to direct me in the worke?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The Vanes of your staffe must be placed as they were before, <gap reason="illegible" resp="#uom" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>ely, in such sort that your sight passing from the end of the yard by the Vanes, you may see both the ends of the part whose length you know. The rule then is this: that <hi>as the distance of the two Vanes is vnto the remnant of the Transam downe vnto the yard, so is the part known vnto the remnant of the height propounded.</hi> So that if the distance of the Vanes
+<pb facs="tcp:15647:18"/>be <hi>20.</hi> parts, and the re<gap reason="illegible" resp="#uom" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>inant of the Transame from the ne<g ref="char:EOLhyphen"/>thermost Vane downe ward be <hi>30.</hi> parts: and the part of the height knowen be <hi>14.</hi> féete, and <hi>⅘</hi> I conclude the remnant of the height to be <hi>22.</hi> féete, and <hi>⅕.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>That standeth with reason, and may be proued by the example next going before this. For if the whole height were <hi>37.</hi> féete, and the part propounded <hi>14.</hi> féete, <gap reason="illegible" resp="#uom" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> that part being taken out of the whole, declareth the remnant to be <hi>22</hi> féete, and <hi>⅕.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The former two rules measured the height of a thing at one station The third rule requireth a double <gap reason="illegible" resp="#uom" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ation, as in the ninth figure. The rule is this: <hi>The Yard of your Staffe being perpendicular to the thing measured; as the difference of the two segments of the yard is to the distance betweene the two stations, so are the partes of the Transame cut off by the Yard to the height propounded.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What meane you by the difference of the two segments of the Yard?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>You may easily know what that meaneth, by that which hath beene taught you before, in measuring the diffance or length of a thing at two stations. Yet I will make it plaine vnto you here: When you make your first station, you <gap reason="illegible" resp="#uom" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the Transame must cut the Yarde in one place or other: also when you make your second station, the <gap reason="illegible" resp="#uom" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>same must cut the Yard in another place, not the same which was before: that distance or parts of the Yard, contained bett<gap reason="illegible" resp="#uom" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>me those <gap reason="illegible" resp="#uom" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> se<g ref="char:EOLhyphen"/>uerall places, are called the differente of the segnm<gap reason="illegible" resp="#uom" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>In this case I must <gap reason="illegible" resp="#uom" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> and downe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>No but you must mo<gap reason="illegible" resp="#uom" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e it only either <gap reason="illegible" resp="#uom" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> your sight.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>When must it come toward my <gap reason="illegible" resp="#uom" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> it goe farther from it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>That fulleth not according <gap reason="illegible" resp="#uom" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> If in <gap reason="illegible" resp="#uom" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> from the
+<pb facs="tcp:15647:18"/>thing measured, your Transame must goe farther from your fight: If you come nigher, your Transame also must come nigher your fight. And here I giue you warning againe, that you goe forward and backward in a right line, directly vppon the thing propounded.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Let me here also by example shew that I vnderstand your Rule. You say that as the difference betwéene the two segments of the yard is vnto the distance betwéene the two stations, so are the partes of the Transame vnto the heighth. Whereupon I conclude thus: that if the difference of the two segments be <hi>23.</hi> and the distance of the two stations be <hi>30.</hi>
+                        <gap reason="illegible" resp="#uom" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>se, and the parts of the Transame cut off by the yard be <hi>44.</hi> then the heighth must be <hi>57.</hi> féete, and <hi>9/23.</hi> as in the Figure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Hitherto you haue learned how to measure the length and the height of things: now it followeth to measure the breadth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Giue me leaure, I pray you, in this place to moue thrée questions: and first what meane you by the breadth?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The breadth here to be measured, is no more, then the length of the right line, conteyned betweene the two ends of the thing propounded, without any consideration of the round<g ref="char:EOLhyphen"/>nesse or hollownesse of the thing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Secondly, how must I stand to hold my Staffe?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>You must stand so, that your staffe being applied vnto your eie, it may be perpendicular vnto the bredth propounded.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Last of all, when I purpose to measure the breadth of a<g ref="char:EOLhyphen"/>ny thing, as of a wall, or such like, against which part of it must I stand? against the iust middest of it? or against the one end? or else where I please, betwéene the two endes? or without both the ends?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is at your owne choise.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>In measuring the former dimensions, my sight did passe but by one end of the Transame, must it do so likewise in this?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>That is according as you stand to take the measure.
+<pb facs="tcp:15647:19"/>If you stand within the two ends of the thing propounded to be measured, your sight must passe by the two ends of the Trā<g ref="char:EOLhyphen"/>same. If you stand against the one end of the thing, or cleane without it, your sight passeth but by one end of the Transame.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What meane you here by the ends of the Transame? are they not here also to be taken as they were before?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yes: The one end of the Transame must alwaies he that, where the partitions begin: the other end is that, vppon which the Vane must stand, and by which the sight passeth. For many times it will so fall out that your sight cannot passe by both the ends of the wood, so that you shall be enforced to place the Vane in some one part or other of the Transame, that it may be a limit for your sight. And this is a generall rule, that <hi>if you stand within the ends of the breadth propounded, the one end of your Transame must be on the one side of the yard, and the other on the other side.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>But will the yard be iust betwéene them both?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>No: Except your station be made accordingly. If you stand in the middest of the thing to be measured, then will the yard be iust in the middest, betwéene the endes of the Transame: if you stand more to the one end then to the o<g ref="char:EOLhyphen"/>ther, the yard also will fall out in like manner, more toward the one end of the Transame, then toward the other.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>How many waies are there to he vsed to measure the breadth by?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>We may measure it two waies: either by the helpe of one station, or of two.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>If I measure it by the helpe of one station, what must be knowen for the third proportionall number?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>The distance betweene you and the thing propounded.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Put case that it be hollow inward betwéene the two ends thereof: or swell outwardly: to which part must I then measure?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>If it be conuexe, or round outward, the best way to measure the breadth is by two stations: but if it be hollow in<g ref="char:EOLhyphen"/>ward,
+<pb facs="tcp:15647:19"/>you must measure no further then from your féet to the right line, which runneth betwéene the two ends of the thing propounded.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>What rule is there for the measuring of a breadth at one station?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>This. <hi>The Yard being perpendicular vnto the breadth assigned, as the parts of the Yard cut off by the Transame are vnto the partes of the Transame contained betweene the two ends, so is the distance betweene your feete and the thing measured, to the breadth thereof.</hi> As in the tenth figure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>I perceiue it well: For there are here two proportionall triangles cut in péeces with a line in the midst: Therefore as in the triangle <hi>A B C.</hi> the line <hi>B C.</hi> is the line <hi>A C.</hi> so is the line <hi>B F.</hi> in the greater triangle to the line <hi>F G.</hi> which is the breadth of the wall. This dependeth vpon that which went be<g ref="char:EOLhyphen"/>fore. Now what is your rule for the measuring at two statiōs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It is this: <hi>The Yard being perpendicular vnto the thing measured, &amp; your sight passing by the ends of the Tran<g ref="char:EOLhyphen"/>same (as it is required:) as the difference of the two segments of the yard is vnto the distaunce betweene the two stations, so are the parts of the Transame betweene the two ends thereof, vn<g ref="char:EOLhyphen"/>to the breadth propounded:</hi> as it is in the <hi>11.</hi> figure.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>This also is very easie by reason of that which was taught before. So that I may conclude, that if the difference of the two segments in the yard be <hi>30.</hi> parts: and the distance of my two stations be <hi>40.</hi> féete: and the parts betwéene the two ends of the Transame be <hi>50.</hi> then must the bredth of the thing be <hi>66.</hi> féete and <hi>⅔.</hi> Haue you any other thing to be added?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>No: But that I would haue you to practise this dili<g ref="char:EOLhyphen"/>gently, and I will hereafter further you in other things.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>I thanke you for it. Yet before I depart, I pray you let me aske you one question: You said before, that in measuring the breadth of any thing it is at my choise to stand where I will, either within the two ends of the thing to be measured, or against the one end thereof, or without both the endes, in
+<pb facs="tcp:15647:20"/>what place I shall thinke most expedient. This last kinde of measuring me thinketh is strange (as for the other I perceiue well enough how their proportion will fall out) wherefore I pray you helpe me herein.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Set the question as you shall thinke it best for your owne vnderstanding.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Put case I were to take the breadth of a riuer, as in the <hi>12.</hi> figure, vnto whose brinke I can not come any nigher then <hi>40.</hi> féete, by reason of some marish grounds adioyning there<g ref="char:EOLhyphen"/>vnto: what meanes shall I vse to finde the breadth thereof?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Put case I were to take the breadth of a riuer, as in the <hi>12.</hi> figure, vnto whose brinke I can not come any nigher then <hi>40.</hi> féete, by reason of some marish grounds adioyning there<g ref="char:EOLhyphen"/>vnto: what meanes shall I vse to finde the breadth thereof?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>But how must they stand in respect of the riuer?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Indéed that is a speciall thing to be noted: They must stand so, that the right line imagined to come from the two markes, may make a right angle with the riuers side: other<g ref="char:EOLhyphen"/>wise you shall erre in taking of your measure: Because that only is accounted the breadth of a thing, which maketh a right angle with the length.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Hauing chosen out these two markes, what is then to be done?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>You must set vp another, which must stand also iust in one right line with the two first markes, whose distaunce from the mark on this side the riuer, must either be giuen you, as being already certainely knowne: or else it must be found out by the first rule concerning the measuring of breadths.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Put case I either know it, or finde it to be <hi>40.</hi> féete.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>You must choose out a conuenient place, wherein you may make your station, &amp; settle your selfe about your worke.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>How must that place lie from the marke that was last set vp?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>It must lie from it so, that the line drawne from that
+<pb facs="tcp:15647:20"/>marke vnto the place of your standing, may make a right an<g ref="char:EOLhyphen"/>gle with the line drawne betweene the thrée afornamed markes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Must I not know the iust length betwéene the place wherein I make my station, and the marke which I set vp.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yes: For it is the third proportionall number.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>Imagine that distance to be <hi>60.</hi> féete.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Then your rule to finde out the breadth is this: <hi>The Yard being perpendicular with the marke set vp, and your sight passing from the head thereof by the end of the Transame vnto the marke standing on the farther side of the riuer, as the parts of the Yard cut off by the Transame, are vnto the partes of the Transame cut off by the Yarde: so is the distaunce be<g ref="char:EOLhyphen"/>tweene your station and the marke set vp vnto the distaunce betweene the sayd marke, and the marke standing vppon the further side of the riuer.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>But what is this to the question that I propounded? you make an aunswere concerning the distaunce of the two markes, whereas I moued a question of the breadth of the Riuer.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Be not angry, I will satisfie you straight waies: first finde out the distance of these two markes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>That can I easily doe: For the parts of the yard being <hi>30.</hi> and the parts of the Transame <hi>36.</hi> and the distance of my station from the first marke <hi>60.</hi> féete. The first marke must be distant from the third <hi>72.</hi> féete.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Then what is the breadth of the riuer?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>That must come from you, for I cannot make the con<g ref="char:EOLhyphen"/>clusion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Then marke this. You sayd the distaunce of the first marke from the third being on the farther side of the Riuer is <hi>72.</hi> féete: and the distaunce of the first marke from the second being on the hither side of the Riuer, was graunted to be <hi>40.</hi> féete: then take <hi>40.</hi> out of <hi>72.</hi> and the remainder being <hi>32.</hi> féete, declareth the breadth of the Riuer.</p>
+                  </sp>
+                  <sp>
+                     <pb facs="tcp:15647:21"/>
+                     <speaker>Sc.</speaker>
+                     <p>I perceiue now what a commodity it is to haue an in<g ref="char:EOLhyphen"/>structor. For the thing which séemed vnto me most strange, and altogether impertinent to my question, is by your meanes made most evident vnto me, and greatly to the matter pro<g ref="char:EOLhyphen"/>pounded. But must I take this course, whensoeuer I am dri<g ref="char:EOLhyphen"/>uen to stand without the compasse of the thing measured.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>Yea, that you must: And sometimes also you shall be driuen to the second rule, wherein two stations are requi<g ref="char:EOLhyphen"/>red, which soeuer you vse it commeth all vnto one purpose, and will eastly affoord you the breadth of a thing.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sc.</speaker>
+                     <p>I can but thanke you for your paines, and good will, in accepting me for your scholler.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Ma.</speaker>
+                     <p>And I likewise you, for making choise of me to be your maister. My will is good to helpe whom I may: howsoe<g ref="char:EOLhyphen"/>uer others may make more boast of their cunning.</p>
+                  </sp>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
